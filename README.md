@@ -11,4 +11,5 @@ Following steps occur:
 ## Dependencies
 
 You only need to call `npm init -y`
+Everything needed comes with node
                         
