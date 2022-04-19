@@ -13,3 +13,6 @@ Following steps occur:
 - You only need to call `npm init -y`
 - Everything needed comes with node
                         
+## Info
+
+You have to set your absolute path in your index.js for example like this: "C:\Users\user123\Desktop\jsinputTobatch\<ins>index.cmd</ins>
