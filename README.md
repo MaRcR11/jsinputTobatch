@@ -15,4 +15,4 @@ Following steps occur:
                         
 ## Info
 
-You have to set your absolute path in your index.js for example like this: "C:\Users\user123\Desktop\jsinputTobatch\index.cmd"
+You have to set your absolute path in your index.js ending with your .cmd, for example like this: "C:\Users\user123\Desktop\jsinputTobatch\index.cmd"
