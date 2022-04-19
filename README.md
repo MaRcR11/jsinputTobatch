@@ -14,6 +14,5 @@ Following steps occur:
 - Everything needed comes with node
                         
 ## Info
-<ins>text</ins>
 
 You have to set your absolute path in your index.js for example like this: "C:\Users\user123\Desktop\jsinputTobatch\index.cmd"
