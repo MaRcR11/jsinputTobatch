@@ -16,4 +16,4 @@ Following steps occur:
 ## Info
 <ins>text</ins>
 
-You have to set your absolute path in your index.js for example like this: "C:\Users\user123\Desktop\jsinputTobatch\ <ins>text</ins> "
+You have to set your absolute path in your index.js for example like this: "C:\Users\user123\Desktop\jsinputTobatch\<ins>text</ins> "
