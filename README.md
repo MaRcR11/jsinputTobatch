@@ -6,5 +6,5 @@ Simple Getter-Setter.
 
 Following steps occur: 
 - Getting your input from index.js
-- Setting your input in index.cmd
+- Setting your input in and creating index.cmd
                         
