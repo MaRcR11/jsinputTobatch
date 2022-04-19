@@ -4,7 +4,7 @@ const readline = require('readline').createInterface({
     output: process.stdout
 });
 
-readline.question('Give someting for .txt?', input => {
+readline.question('Give someting for .cmd?', input => {
     console.log(`Your input: ${input}`);
     readline.close();
     fs.writeFile('YOUR ABSOLUTE PATH', input, err => {
